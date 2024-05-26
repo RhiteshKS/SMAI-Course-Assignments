@@ -16,5 +16,5 @@
 2. Autoencoder
 3. IMDB dataset- RNN, LSTMs- wandb
 
-## Assignment-4 Mini Project
-1. Age Detection using facial images, kaggle competition.
+## Assignment-4, Mini Project (Kaggle Competition)
+1. Age Detection using facial images
