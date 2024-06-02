@@ -18,3 +18,5 @@
 
 ## Assignment-4, Mini Project (Kaggle Competition)
 1. Age Detection using facial images
+
+SMAI Project [link] (https://github.com/RhiteshKS/QA-chatbot-using-RAG-SMAI)
